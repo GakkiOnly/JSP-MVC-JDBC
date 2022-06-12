@@ -3,7 +3,7 @@
 
 ![image-20220612174616135](C:\Users\Jerry\AppData\Roaming\Typora\typora-user-images\image-20220612174616135.png)
 
-项目的详细功能介绍（若图片无法显示，内附有文档说明）
+项目的详细功能介绍（若图片无法显示，内附有文档说明,在main.docx）
 
 \1. 功能模块描述，三个大模块
 
